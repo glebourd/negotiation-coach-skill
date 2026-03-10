@@ -188,6 +188,12 @@ Auto-generated files (created during coaching, not checked in):
 
 ---
 
+## Credits
+
+This project was inspired by the [Interview Coach Skill](https://github.com/noamseg/interview-coach-skill).
+
+---
+
 ## License
 
 MIT
