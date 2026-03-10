@@ -190,7 +190,7 @@ Auto-generated files (created during coaching, not checked in):
 
 ## Credits
 
-This project was inspired by the [Interview Coach Skill](https://github.com/noamseg/interview-coach-skill).
+This project was inspired by the [Interview Coach Skill](https://github.com/noamseg/interview-coach-skill). h/t Lenny's Podcast and @noamseg
 
 ---
 
