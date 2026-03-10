@@ -1,0 +1,9 @@
+# OS
+.DS_Store
+
+# Personal negotiation data — contains strategies, scores, outcomes, and notes
+negotiation_state.md
+negotiation_history.md
+
+# Active skill file (created by copying SKILL.md during setup)
+CLAUDE.md
